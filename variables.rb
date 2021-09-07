@@ -1,5 +1,7 @@
 # Assign variables
 movie = "Cliffhanger"
+is_entertaining = true
+movie = "Lord of the Rings"
 num_4 = 4
 num_6 = 8
 
